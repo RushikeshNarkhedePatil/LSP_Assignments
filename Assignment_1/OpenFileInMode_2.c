@@ -1,3 +1,11 @@
+/////////////////////////////////////////////////////////////////////////////////////
+// Problem Statement: Write a program which accepts file name and mode from user and open that file in specified mode
+// File Name: OpenFileInMode_2.c
+// Description: This program opens a specified file in user-defined mode (read, write, read/write, append) and displays the file descriptor.
+// Owner : Rushikesh Narkhede
+// Date : 24 December 2025
+/////////////////////////////////////////////////////////////////////////////////////
+
 #include<stdio.h>
 #include<fcntl.h>
 #include<unistd.h>

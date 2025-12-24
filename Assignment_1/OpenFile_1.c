@@ -1,3 +1,10 @@
+//////////////////////////////////////////////////////////////////////////////////////////////
+// Problem Statement: Write a program which accepts file name from user and open that file in read only mode
+// File Name: OpenFile_1.c
+// Description: This program opens a specified file in read-only mode and displays the file descriptor.
+// Owner : Rushikesh Narkhede
+// Date : 24 December 2025
+//////////////////////////////////////////////////////////////////////////////////////////////
 #include<stdio.h>
 #include<fcntl.h>
 #include<unistd.h>
